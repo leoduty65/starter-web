@@ -11,3 +11,12 @@ Finally, hashing is a form of cryptographic security which differs from encrypti
 Hashing is used only to verify data; the original message cannot be retrieved from a hash. When used to authenticate secure communications, a hash is typically the result of the original message plus a secret key. Hashing algorithms are also commonly used without a secret key simply for error checking. You can use the md5sum and sha1sum utilities on a Linux or Unix machine to experiment with hashing.
 Hashing algorithm - 
 A hash can simply be defined as a number generated from a string of text. Other literature can also call it a message digest. In essence, a hash is smaller than the text that produces it. It is generated in a way that a similar hash with the same value cannot be produced by another text. From this definition, it can be seen that hashing is the process of producing hash values for the purpose of accessing data and for security reasons in communication systems.
+While the word encryption has a shared general meaning, that doesn’t mean that all encryption is the same. In fact, the field of cryptography is as wide and diverse, as it is basically impossible for outsiders to understand.
+
+Just like physics and other brainy subjects, you have to be some sort of weird genius to really understand how it all works.
+
+The basic premise is easy enough for most people. That includes me, and it goes something like this:
+
+Encryption is a method of taking a plainly readable bit of information and then scrambling it using a special mathematical recipe known as a cipher. This is where the word “decipher” comes from. Something we say when trying to figure a cryptic piece of information out. Hey, the word “cryptic” is related to cryptography too!
+
+While there have been many types of ciphers over the millennia, there are basically only three encryption approaches that have relevance in the modern day when it comes to computers and the internet. In this article, I’m going to discuss all three of these approaches and by the end, you should have a good idea of how they work. At least in general terms.
