@@ -1,0 +1,2 @@
+The difference between hashing and encryption -
+It requires a private key to reversible function encrypted text to plain text. In short, encryption is a two-way function that includes encryption and decryption whilst hashing is a one-way function that changes a plain text to a unique digest that is irreversible.
