@@ -18,5 +18,3 @@ Just like physics and other brainy subjects, you have to be some sort of weird g
 The basic premise is easy enough for most people. That includes me, and it goes something like this:
 
 Encryption is a method of taking a plainly readable bit of information and then scrambling it using a special mathematical recipe known as a cipher. This is where the word “decipher” comes from. Something we say when trying to figure a cryptic piece of information out. Hey, the word “cryptic” is related to cryptography too!
-
-While there have been many types of ciphers over the millennia, there are basically only three encryption approaches that have relevance in the modern day when it comes to computers and the internet. In this article, I’m going to discuss all three of these approaches and by the end, you should have a good idea of how they work. At least in general terms.
