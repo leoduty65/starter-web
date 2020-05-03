@@ -20,3 +20,6 @@ simply contribute
 ## Deployement
 
 This is a simply web project, deployement can be on any web server or even local file system
+
+## Copyright
+Copyright bla bla bla
