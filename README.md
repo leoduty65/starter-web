@@ -11,6 +11,8 @@ and various commands.
 
 ## Purpose
 
+As started above, the main puporse is to provide simple examples for git training
+
 ## How to contribute
 
 ## Deployement
