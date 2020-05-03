@@ -15,4 +15,8 @@ As started above, the main puporse is to provide simple examples for git trainin
 
 ## How to contribute
 
+simply contribute
+
 ## Deployement
+
+This is a simply web project, deployement can be on any web server or even local file system
