@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Request
 This is a simply web project, deployement can be on any web server or even local file system
 
 ## Copyright
-Copyright bla bla bla
+Copyright bla bla bla No rights reserves
