@@ -15,7 +15,7 @@ As started above, the main puporse is to provide simple examples for git trainin
 
 ## How to contribute
 
-simply contribute
+Please fork this repository and then issue Pull Request
 
 ## Deployement
 
