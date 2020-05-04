@@ -3,6 +3,7 @@
 This is a simple website project for showing
 how to use git and github together. Adding a line for rebasing example, then
 more changes fron my feature change too...
+Emergency fix after stashing
 
 ## Introduction
 
