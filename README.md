@@ -6,6 +6,8 @@ Emergency fix after stashing
 Adding a line for rebasing example, then
 more changes fron my feature change too...
 ------------------------------------------
+more changes fron my feature change too...
+
 
 ## Introduction
 
